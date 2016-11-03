@@ -275,7 +275,7 @@ print("hello")
 </t>
 <t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
 
-### 虎科大機械設計工程系
+###  2016fallcadp_bg2
 
 &lt;small&gt;
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
