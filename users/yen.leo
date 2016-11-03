@@ -281,13 +281,17 @@ print("hello")
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[甲班電腦輔助設計實習課程網誌](blog/index.html)
+&lt;a href="https://40223205.github.io/2016fallcadp_bg2/40423105/#/"&gt;40223205&lt;/a&gt;
+&lt;a href="https://s40223206.github.io/2016fallcadp_bg2/40423115/#/"&gt;40223206&lt;/a&gt;
+&lt;a href="https://40423225.github.io/2016fallcadp_bg2/40423119/#/"&gt;40423225&lt;/a&gt;
+&lt;a href="https://40423231.github.io/2016fallcadp_bg2/40423128/#/"&gt;40423231&lt;/a&gt;
+&lt;a href="https://40423240.github.io/2016fallcadp_bg2/40423139/#/"&gt;40423240&lt;/a&gt;
+&lt;a href="https://40423250.github.io/2016fallcadp_bg2/40423149/#/"&gt;40423250&lt;/a&gt;
 
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
 
 [Vimeo 上課影片](https://vimeo.com/user24079973/videos)
 
-[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
+
 </t>
 <t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
